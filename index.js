@@ -25,6 +25,11 @@ app.get("/", (req, res) => {
       name: "abc",
       age: 38,
     },
+    {
+      id: 4,
+      name: "kunjesh bht bekar hai ,",
+      age: 38,
+    },
   ]);
 });
 
